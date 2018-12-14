@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1">
+  <panorama id="node1" hideabout="1">
+    <input levelbiashidpi="0.400" levelingroll="1.22686" levelbias="0.400" overlap="1" width="1344" leveltilesize="510" leveltileurl="tiles/R0010015_20160620175334/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1344" levelingpitch="3.43466">
+      <level predecode="0" width="1344" height="1344" preload="0"/>
+      <level predecode="0" width="672" height="672" preload="0"/>
+      <level predecode="1" width="336" height="336" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="157.5" fovmode="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="0" tilt="-90" fov="50"/>
+      <max pan="360" tilt="90" fov="90"/>
+    </view>
+    <userdata description="360 degree Virtual Tour for Real" title="Sample Flat VR Tour." latitude="" source="" comment="" tags="" author="estate. Visit website" datetime="www.mastersinteractive.com" copyright="Masters Interactive Pvt. Ltd." info="" longitude=""/>
+    <hotspots width="180" height="0" wordwrap="1">
+      <label borderalpha="1" textalpha="1" borderradius="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" width="180" textcolor="0x000000" enabled="1" background="1" height="0" backgroundalpha="1" wordwrap="1"/>
+      <polystyle borderalpha="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627"/>
+      <hotspot description="" skinid="ht_node" title="Flat Entry" url="{node2}" pan="148.4" id="Point01" target="2.65467/0.176957/70" tilt="-0.26"/>
+    </hotspots>
+    <media>
+      <image pan="13.600" id="Element01" rotx="0.000" rotz="0.000" clickmode="0" tilt="-85.890" width="655" handcursor="0" height="638" roty="0.000" stretch="1.000" fov="30.000">
+        <source url="media/MI Logo-logo 1 jpg.png"/>
+      </image>
+      <sound tiltsize="10.000" ambientlevel="0.000" pansize="10.000" pan="-1.000" id="_background" mode="0" tilt="-1.000" level="0.500" loop="0" field="90.000">
+        <source url="media/bensound-romantic.mp3"/>
+      </sound>
+    </media>
+    <transition type="cut" zoomoutpause="1" zoomspeed="2" zoomout="0" blendtime="1" blendcolor="0x000000" zoomfov="20" zoomin="0" enabled="1" softedge="0"/>
+    <autorotate nodedelay="45.00" useanimation="0" noderandom="0" returntohorizon="0.000" startloaded="1" speed="0.150" delay="1.00"/>
+    <soundstransition crossfade="0" enabled="1" transitiontime="0.1"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" invertwheel="0" speedwheel="1" invertcontrol="1" contextfullscreen="1" lockedkeyboard="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node10" hideabout="1">
+    <input levelbiashidpi="0.400" levelingroll="1.3" levelbias="0.400" overlap="1" width="1344" leveltilesize="510" leveltileurl="tiles/R0010015_20160620175334_1/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1344" levelingpitch="3.5">
+      <level predecode="0" width="1344" height="1344" preload="0"/>
+      <level predecode="0" width="672" height="672" preload="0"/>
+      <level predecode="1" width="336" height="336" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="157.5" fovmode="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" tilt="90" fov="120"/>
+    </view>
+    <userdata description="" title="" latitude="" source="" comment="" tags="" author="" datetime="" copyright="" info="" longitude=""/>
+    <hotspots width="180" height="0" wordwrap="1">
+      <label borderalpha="1" textalpha="1" borderradius="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" width="180" textcolor="0x000000" enabled="1" background="1" height="0" backgroundalpha="1" wordwrap="1"/>
+      <polystyle borderalpha="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627"/>
+      <hotspot description="" skinid="ht_node" title="" url="{node2}" pan="148.4" id="Point01" target="2.65467/0.176957/70" tilt="-0.37"/>
+    </hotspots>
+    <media>
+      <image pan="13.600" id="Element01" rotx="0.000" rotz="0.000" clickmode="0" tilt="-85.950" width="655" handcursor="0" height="638" roty="0.000" stretch="1.000" fov="30.000">
+        <source url="media/MI Logo-logo 1 jpg.png"/>
+      </image>
+    </media>
+    <transition type="cut" zoomoutpause="1" zoomspeed="2" zoomout="0" blendtime="1" blendcolor="0x000000" zoomfov="20" zoomin="0" enabled="1" softedge="0"/>
+    <autorotate nodedelay="45.00" useanimation="0" noderandom="0" returntohorizon="0.000" startloaded="1" speed="0.150" delay="1.00"/>
+    <soundstransition crossfade="0" enabled="1" transitiontime="0.1"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" invertwheel="0" speedwheel="1" invertcontrol="1" contextfullscreen="1" lockedkeyboard="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <input levelbiashidpi="0.400" levelingroll="-0.482096" levelbias="0.400" overlap="1" width="1344" leveltilesize="510" leveltileurl="tiles/R0010011_20160620173451/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1344" levelingpitch="2.58781">
+      <level predecode="0" width="1344" height="1344" preload="0"/>
+      <level predecode="0" width="672" height="672" preload="0"/>
+      <level predecode="1" width="336" height="336" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-45" fovmode="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="0" tilt="-90" fov="50"/>
+      <max pan="360" tilt="90" fov="90"/>
+    </view>
+    <userdata description="360 degree Virtual Tour for Real" title="Sample Flat VR Tour." latitude="" source="" comment="" tags="Rahul home" author="estate. Visit website" datetime="www.mastersinteractive.com" copyright="Masters Interactive Pvt. Ltd." info="This Is Virtual Tour Of sample flat to be shown website. Visit www.mastersinteractive.com" longitude=""/>
+    <hotspots width="180" height="0" wordwrap="1">
+      <label borderalpha="1" textalpha="1" borderradius="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" width="180" textcolor="0x000000" enabled="1" background="1" height="0" backgroundalpha="1" wordwrap="1"/>
+      <polystyle borderalpha="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627"/>
+      <hotspot description="" skinid="ht_node" title="Exit to Lobby" url="{node1}" pan="140.21" id="Point02" target="6.54082/1.13277/70" tilt="-5.33"/>
+      <hotspot description="" skinid="ht_node" title="Passage" url="{node5}" pan="-77.19" id="Point03" target="-69.6877/-5.63914/70" tilt="-2.53"/>
+      <hotspot description="" skinid="ht_node" title="Store room" url="{node3}" pan="-62.3" id="Point09" target="12.9547/1.15562/70" tilt="-3.71"/>
+    </hotspots>
+    <media>
+      <image pan="10.750" id="Element01" rotx="0.000" rotz="0.000" clickmode="0" tilt="-87.770" width="655" handcursor="0" height="638" roty="0.000" stretch="1.000" fov="30.000">
+        <source url="media/MI Logo-logo 1 jpg.png"/>
+      </image>
+    </media>
+    <transition type="cut" zoomoutpause="1" zoomspeed="2" zoomout="0" blendtime="1" blendcolor="0x000000" zoomfov="20" zoomin="0" enabled="1" softedge="0"/>
+    <autorotate nodedelay="45.00" useanimation="0" noderandom="0" returntohorizon="0.000" startloaded="1" speed="0.150" delay="1.00"/>
+    <soundstransition crossfade="0" enabled="1" transitiontime="0.1"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" invertwheel="0" speedwheel="1" invertcontrol="1" contextfullscreen="1" lockedkeyboard="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <input levelbiashidpi="0.400" levelingroll="-0.5" levelbias="0.400" overlap="1" width="1344" leveltilesize="510" leveltileurl="tiles/R0010011_20160620173451_1/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1344" levelingpitch="2.8">
+      <level predecode="0" width="1344" height="1344" preload="0"/>
+      <level predecode="0" width="672" height="672" preload="0"/>
+      <level predecode="1" width="336" height="336" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="315" fovmode="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" tilt="90" fov="120"/>
+    </view>
+    <userdata description="" title="" latitude="" source="" comment="" tags="Pano2VR5" author="" datetime="" copyright="" info="" longitude=""/>
+    <hotspots width="180" height="0" wordwrap="1">
+      <label borderalpha="1" textalpha="1" borderradius="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" width="180" textcolor="0x000000" enabled="1" background="1" height="0" backgroundalpha="1" wordwrap="1"/>
+      <polystyle borderalpha="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627"/>
+      <hotspot description="" skinid="ht_node" title="" url="{node10}" pan="140.25" id="Point01" target="6.54082/1.13277/70" tilt="-5.33"/>
+      <hotspot description="" skinid="ht_node" title="" url="{node9}" pan="-77.19" id="Point02" target="-69.6877/-5.63914/70" tilt="-2.53"/>
+      <hotspot description="" skinid="ht_node" title="" url="{node7}" pan="-62.3" id="Point03" target="12.9547/1.15562/70" tilt="-3.71"/>
+    </hotspots>
+    <media>
+      <image pan="10.750" id="Element01" rotx="0.000" rotz="0.000" clickmode="0" tilt="-87.780" width="655" handcursor="0" height="638" roty="0.000" stretch="1.000" fov="30.000">
+        <source url="media/MI Logo-logo 1 jpg.png"/>
+      </image>
+    </media>
+    <transition type="cut" zoomoutpause="1" zoomspeed="2" zoomout="0" blendtime="1" blendcolor="0x000000" zoomfov="20" zoomin="0" enabled="1" softedge="0"/>
+    <autorotate nodedelay="45.00" useanimation="0" noderandom="0" returntohorizon="0.000" startloaded="1" speed="0.150" delay="1.00"/>
+    <soundstransition crossfade="0" enabled="1" transitiontime="0.1"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" invertwheel="0" speedwheel="1" invertcontrol="1" contextfullscreen="1" lockedkeyboard="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <input levelbiashidpi="0.400" levelingroll="0.7" levelbias="0.400" overlap="1" width="1344" leveltilesize="510" leveltileurl="tiles/R0010012_20160620174028/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1344" levelingpitch="3.5">
+      <level predecode="0" width="1344" height="1344" preload="0"/>
+      <level predecode="0" width="672" height="672" preload="0"/>
+      <level predecode="1" width="336" height="336" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="0" tilt="-90" fov="50"/>
+      <max pan="360" tilt="90" fov="90"/>
+    </view>
+    <userdata description="360 degree Virtual Tour for Real" title="Sample Flat VR Tour." latitude="" source="" comment="" tags="" author="estate. Visit website" datetime="www.mastersinteractive.com" copyright="Masters Interactive Pvt. Ltd." info="This Is Virtual Tour Of sample flat to be shown website. Visit www.mastersinteractive.com" longitude=""/>
+    <hotspots width="180" height="0" wordwrap="1">
+      <label borderalpha="1" textalpha="1" borderradius="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" width="180" textcolor="0x000000" enabled="1" background="1" height="0" backgroundalpha="1" wordwrap="1"/>
+      <polystyle borderalpha="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627"/>
+      <hotspot description="" skinid="ht_node" title="Passage" url="{node5}" pan="-147.72" id="Point05" target="26.2105/-2.01928/70" tilt="-6.02"/>
+    </hotspots>
+    <media>
+      <image pan="10.750" id="Element01" rotx="1.000" rotz="0.000" clickmode="0" tilt="-87.470" width="655" handcursor="0" height="638" roty="0.000" stretch="1.000" fov="30.000">
+        <source url="media/MI Logo-logo 1 jpg.png"/>
+      </image>
+    </media>
+    <transition type="cut" zoomoutpause="1" zoomspeed="2" zoomout="0" blendtime="1" blendcolor="0x000000" zoomfov="20" zoomin="0" enabled="1" softedge="0"/>
+    <autorotate nodedelay="45.00" useanimation="0" noderandom="0" returntohorizon="0.000" startloaded="1" speed="0.150" delay="1.00"/>
+    <soundstransition crossfade="0" enabled="1" transitiontime="0.1"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" invertwheel="0" speedwheel="1" invertcontrol="1" contextfullscreen="1" lockedkeyboard="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <input levelbiashidpi="0.400" levelingroll="0.7" levelbias="0.400" overlap="1" width="1344" leveltilesize="510" leveltileurl="tiles/R0010012_20160620174028_1/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1344" levelingpitch="3.5">
+      <level predecode="0" width="1344" height="1344" preload="0"/>
+      <level predecode="0" width="672" height="672" preload="0"/>
+      <level predecode="1" width="336" height="336" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" tilt="90" fov="120"/>
+    </view>
+    <userdata description="" title="" latitude="" source="" comment="" tags="Pano2VR5" author="" datetime="" copyright="" info="" longitude=""/>
+    <hotspots width="180" height="0" wordwrap="1">
+      <label borderalpha="1" textalpha="1" borderradius="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" width="180" textcolor="0x000000" enabled="1" background="1" height="0" backgroundalpha="1" wordwrap="1"/>
+      <polystyle borderalpha="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627"/>
+      <hotspot description="" skinid="ht_node" title="" url="{node9}" pan="-147.72" id="Point01" target="26.2105/-2.01928/70" tilt="-6.02"/>
+    </hotspots>
+    <media>
+      <image pan="10.750" id="Element01" rotx="0.000" rotz="0.000" clickmode="0" tilt="-87.470" width="655" handcursor="0" height="638" roty="0.000" stretch="1.000" fov="30.000">
+        <source url="media/MI Logo-logo 1 jpg.png"/>
+      </image>
+    </media>
+    <transition type="cut" zoomoutpause="1" zoomspeed="2" zoomout="0" blendtime="1" blendcolor="0x000000" zoomfov="20" zoomin="0" enabled="1" softedge="0"/>
+    <autorotate nodedelay="45.00" useanimation="0" noderandom="0" returntohorizon="0.000" startloaded="1" speed="0.150" delay="1.00"/>
+    <soundstransition crossfade="0" enabled="1" transitiontime="0.1"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" invertwheel="0" speedwheel="1" invertcontrol="1" contextfullscreen="1" lockedkeyboard="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <input levelbiashidpi="0.400" levelingroll="1.3" levelbias="0.400" overlap="1" width="1344" leveltilesize="510" leveltileurl="tiles/R0010014_20160620174927/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1344" levelingpitch="4">
+      <level predecode="0" width="1344" height="1344" preload="0"/>
+      <level predecode="0" width="672" height="672" preload="0"/>
+      <level predecode="1" width="336" height="336" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="180" fovmode="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="0" tilt="-90" fov="50"/>
+      <max pan="360" tilt="90" fov="90"/>
+    </view>
+    <userdata description="360 degree Virtual Tour for Real" title="Sample Flat VR Tour." latitude="" source="" comment="" tags="Rahul home" author="estate. Visit website" datetime="www.mastersinteractive.com" copyright="Masters Interactive Pvt. Ltd." info="This Is Virtual Tour Of sample flat to be shown website. Visit www.mastersinteractive.com" longitude=""/>
+    <hotspots width="180" height="0" wordwrap="1">
+      <label borderalpha="1" textalpha="1" borderradius="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" width="180" textcolor="0x000000" enabled="1" background="1" height="0" backgroundalpha="1" wordwrap="1"/>
+      <polystyle borderalpha="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627"/>
+      <hotspot description="" skinid="ht_node" title="Store room" url="{node3}" pan="-95.24" id="Point04" target="14.471/1.68792/70" tilt="-7.12"/>
+      <hotspot description="" skinid="ht_node" title="Bedroom" url="{node4}" pan="-153.22" id="Point06" target="-176.883/-1.58127/70" tilt="-7.71"/>
+      <hotspot description="" skinid="ht_node" title="Living room" url="{node2}" pan="-68.23" id="Point010" target="0/0/70" tilt="-5.69"/>
+    </hotspots>
+    <media>
+      <image pan="18.920" id="Element01" rotx="0.000" rotz="0.000" clickmode="0" tilt="-86.250" width="655" handcursor="0" height="638" roty="0.000" stretch="1.000" fov="30.000">
+        <source url="media/MI Logo-logo 1 jpg.png"/>
+      </image>
+    </media>
+    <transition type="cut" zoomoutpause="1" zoomspeed="2" zoomout="0" blendtime="1" blendcolor="0x000000" zoomfov="20" zoomin="0" enabled="1" softedge="0"/>
+    <autorotate nodedelay="45.00" useanimation="0" noderandom="0" returntohorizon="0.000" startloaded="1" speed="0.150" delay="1.00"/>
+    <soundstransition crossfade="0" enabled="1" transitiontime="0.1"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" invertwheel="0" speedwheel="1" invertcontrol="1" contextfullscreen="1" lockedkeyboard="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node9" hideabout="1">
+    <input levelbiashidpi="0.400" levelingroll="1.3" levelbias="0.400" overlap="1" width="1344" leveltilesize="510" leveltileurl="tiles/R0010014_20160620174927_1/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1344" levelingpitch="4">
+      <level predecode="0" width="1344" height="1344" preload="0"/>
+      <level predecode="0" width="672" height="672" preload="0"/>
+      <level predecode="1" width="336" height="336" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="180" fovmode="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" tilt="90" fov="120"/>
+    </view>
+    <userdata description="" title="" latitude="" source="" comment="" tags="Pano2VR5" author="" datetime="" copyright="" info="" longitude=""/>
+    <hotspots width="180" height="0" wordwrap="1">
+      <label borderalpha="1" textalpha="1" borderradius="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" width="180" textcolor="0x000000" enabled="1" background="1" height="0" backgroundalpha="1" wordwrap="1"/>
+      <polystyle borderalpha="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627"/>
+      <hotspot description="" skinid="ht_node" title="" url="{node6}" pan="-68.23" id="Point01" target="0/0/70" tilt="-5.69"/>
+      <hotspot description="" skinid="ht_node" title="" url="{node7}" pan="-95.24" id="Point02" target="14.471/1.68792/70" tilt="-7.12"/>
+      <hotspot description="" skinid="ht_node" title="" url="{node8}" pan="-153.11" id="Point03" target="-176.883/-1.58127/70" tilt="-7.71"/>
+    </hotspots>
+    <media>
+      <image pan="18.920" id="Element01" rotx="0.000" rotz="0.000" clickmode="0" tilt="-86.250" width="655" handcursor="0" height="638" roty="0.000" stretch="1.000" fov="30.000">
+        <source url="media/MI Logo-logo 1 jpg.png"/>
+      </image>
+    </media>
+    <transition type="cut" zoomoutpause="1" zoomspeed="2" zoomout="0" blendtime="1" blendcolor="0x000000" zoomfov="20" zoomin="0" enabled="1" softedge="0"/>
+    <autorotate nodedelay="45.00" useanimation="0" noderandom="0" returntohorizon="0.000" startloaded="1" speed="0.150" delay="1.00"/>
+    <soundstransition crossfade="0" enabled="1" transitiontime="0.1"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" invertwheel="0" speedwheel="1" invertcontrol="1" contextfullscreen="1" lockedkeyboard="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <input levelbiashidpi="0.400" levelingroll="1" levelbias="0.400" overlap="1" width="1344" leveltilesize="510" leveltileurl="tiles/R0010013_20160620174324/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1344" levelingpitch="3.6">
+      <level predecode="0" width="1344" height="1344" preload="0"/>
+      <level predecode="0" width="672" height="672" preload="0"/>
+      <level predecode="1" width="336" height="336" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="135" fovmode="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="0" tilt="-90" fov="50"/>
+      <max pan="360" tilt="90" fov="90"/>
+    </view>
+    <userdata description="360 degree Virtual Tour for Real" title="Sample Flat VR Tour." latitude="" source="" comment="" tags="Rahul home" author="estate. Visit website" datetime="www.mastersinteractive.com" copyright="Masters Interactive Pvt. Ltd." info="This Is Virtual Tour Of sample flat to be shown website. Visit www.mastersinteractive.com" longitude=""/>
+    <hotspots width="180" height="0" wordwrap="1">
+      <label borderalpha="1" textalpha="1" borderradius="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" width="180" textcolor="0x000000" enabled="1" background="1" height="0" backgroundalpha="1" wordwrap="1"/>
+      <polystyle borderalpha="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627"/>
+      <hotspot description="" skinid="ht_node" title="Passage" url="{node5}" pan="-23.85" id="Point06" target="-68.1513/-4.61342/70" tilt="-9.16"/>
+    </hotspots>
+    <media>
+      <image pan="10.160" id="Element01" rotx="0.000" rotz="0.000" clickmode="0" tilt="-87.050" width="655" handcursor="0" height="638" roty="0.000" stretch="1.000" fov="30.000">
+        <source url="media/MI Logo-logo 1 jpg.png"/>
+      </image>
+    </media>
+    <transition type="cut" zoomoutpause="1" zoomspeed="2" zoomout="0" blendtime="1" blendcolor="0x000000" zoomfov="20" zoomin="0" enabled="1" softedge="0"/>
+    <autorotate nodedelay="45.00" useanimation="0" noderandom="0" returntohorizon="0.000" startloaded="1" speed="0.150" delay="1.00"/>
+    <soundstransition crossfade="0" enabled="1" transitiontime="0.1"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" invertwheel="0" speedwheel="1" invertcontrol="1" contextfullscreen="1" lockedkeyboard="1" hideabout="1"/>
+  </panorama>
+  <panorama id="node8" hideabout="1">
+    <input levelbiashidpi="0.400" levelingroll="1" levelbias="0.400" overlap="1" width="1344" leveltilesize="510" leveltileurl="tiles/R0010013_20160620174324_1/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1344" levelingpitch="3.6">
+      <level predecode="0" width="1344" height="1344" preload="0"/>
+      <level predecode="0" width="672" height="672" preload="0"/>
+      <level predecode="1" width="336" height="336" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="135" fovmode="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" tilt="90" fov="120"/>
+    </view>
+    <userdata description="" title="" latitude="" source="" comment="" tags="Pano2VR5" author="" datetime="" copyright="" info="" longitude=""/>
+    <hotspots width="180" height="0" wordwrap="1">
+      <label borderalpha="1" textalpha="1" borderradius="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" width="180" textcolor="0x000000" enabled="1" background="1" height="0" backgroundalpha="1" wordwrap="1"/>
+      <polystyle borderalpha="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627"/>
+      <hotspot description="" skinid="ht_node" title="" url="{node9}" pan="-23.85" id="Point01" target="-68.1513/-4.61342/70" tilt="-9.16"/>
+    </hotspots>
+    <media>
+      <image pan="10.160" id="Element01" rotx="0.000" rotz="0.000" clickmode="0" tilt="-87.050" width="655" handcursor="0" height="638" roty="0.000" stretch="1.000" fov="30.000">
+        <source url="media/MI Logo-logo 1 jpg.png"/>
+      </image>
+    </media>
+    <transition type="cut" zoomoutpause="1" zoomspeed="2" zoomout="0" blendtime="1" blendcolor="0x000000" zoomfov="20" zoomin="0" enabled="1" softedge="0"/>
+    <autorotate nodedelay="45.00" useanimation="0" noderandom="0" returntohorizon="0.000" startloaded="1" speed="0.150" delay="1.00"/>
+    <soundstransition crossfade="0" enabled="1" transitiontime="0.1"/>
+    <control lockedmouse="0" simulatemass="1" dblclickfullscreen="0" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" invertwheel="0" speedwheel="1" invertcontrol="1" contextfullscreen="1" lockedkeyboard="1" hideabout="1"/>
+  </panorama>
+</tour>
